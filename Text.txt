@@ -1,3 +1,6 @@
-komal and Manisha are doing study.
+1komal and Manisha are doing study.
 
-they are having fun.
+2they are having fun.
+
+line 5
+line 6
